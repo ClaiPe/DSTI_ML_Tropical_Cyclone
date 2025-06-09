@@ -7,6 +7,8 @@
 - **Course:** Machine Learning with Python   
 - **Project:** Group project 
 
+---
+
 ## Overview
 This project presents a machine learning pipeline developed to classify cyclone intensity levels based on environmental and geographical data. The goal is to predict the **TD9636_STAGE**, a framework for cyclone intensity stages, using features derived from the **IBTrACS dataset** provided by NOAA.
 The project is structured to follow best practices in data preprocessing, model training, and evaluation, and is designed to handle real-world issues such as missing values and class imbalance.
