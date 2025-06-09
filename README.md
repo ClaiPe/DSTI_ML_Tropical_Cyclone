@@ -3,7 +3,7 @@
 ## Course info
 
 - **Institution:** DSTI School of Engineering
-- **Program:** Applied MSc in Data Engineering & Artificial Intelligence  
+- **Program:** Applied MSc in Data Science & Artificial Intelligence  
 - **Course:** Machine Learning with Python   
 - **Project:** Group project 
 
